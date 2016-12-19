@@ -1,5 +1,5 @@
 meta:
-  board: sprint_backlog
+  board: completed
   tags: feature
   follows: board
 
