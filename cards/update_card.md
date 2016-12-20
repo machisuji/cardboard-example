@@ -1,5 +1,5 @@
 meta:
-  board: product_backlog
+  board: in_progress
   tags: feature
 
 # Update Card
