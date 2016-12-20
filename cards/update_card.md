@@ -1,5 +1,5 @@
 meta:
-  board: in_progress
+  board: sprint_backlog
   tags: feature
 
 # Update Card
